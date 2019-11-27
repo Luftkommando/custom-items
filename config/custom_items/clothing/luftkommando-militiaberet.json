@@ -1,0 +1,8 @@
+{
+  "ckey" :            "luftkommando",
+  "character_name" :  "Kameron Antigru",
+  "item_name" :       "Militia Patch",
+  "item_desc" :       "A makeshift and torn patch with the words Monty's Militia along the bottom and the name Antigru along the top. It looks like it repurposes an old SCGA patch.",
+  "item_icon_state" : "monty_patch",
+  "item_path" :       "/obj/item/clothing/accessory/solgov/fleet_patch",
+}
