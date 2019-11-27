@@ -1,8 +1,8 @@
 {
-ckey: Luftkommando
-character_name: Kameron Antigru
-item_path: /obj/item/clothing/accessory/solgov/fleet_patch
-item_name: Militia Patch
-item_icon: monty_patch     
-item_desc: A makeshift and torn patch with the words "Monty's Militia" along the bottom and the name Antigru along the top. It looks like it repurposes an old SCGA patch.
+  "ckey" :            "luftkommando",
+  "character_name" :  "Kameron Antigru",
+  "item_name" :       "Militia Beret",
+  "item_desc" :       "A green beret with a makeshift patch. The patch has a planet with the words Monty's Militia along the bottom. You can see remnants of an old SCGA patch underneath it.",
+  "item_icon_state" : "monty_beret",
+  "item_path" :       "/obj/item/clothing/head/beret/solgov/fleet",
 }
